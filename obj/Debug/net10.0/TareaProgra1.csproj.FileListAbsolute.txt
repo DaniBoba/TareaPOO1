@@ -1,0 +1,15 @@
+C:\Users\dani2\Desktop\TareaProgra1\bin\Debug\net10.0\TareaProgra1.exe
+C:\Users\dani2\Desktop\TareaProgra1\bin\Debug\net10.0\TareaProgra1.deps.json
+C:\Users\dani2\Desktop\TareaProgra1\bin\Debug\net10.0\TareaProgra1.runtimeconfig.json
+C:\Users\dani2\Desktop\TareaProgra1\bin\Debug\net10.0\TareaProgra1.dll
+C:\Users\dani2\Desktop\TareaProgra1\bin\Debug\net10.0\TareaProgra1.pdb
+C:\Users\dani2\Desktop\TareaProgra1\obj\Debug\net10.0\TareaProgra1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dani2\Desktop\TareaProgra1\obj\Debug\net10.0\TareaProgra1.AssemblyInfoInputs.cache
+C:\Users\dani2\Desktop\TareaProgra1\obj\Debug\net10.0\TareaProgra1.AssemblyInfo.cs
+C:\Users\dani2\Desktop\TareaProgra1\obj\Debug\net10.0\TareaProgra1.csproj.CoreCompileInputs.cache
+C:\Users\dani2\Desktop\TareaProgra1\obj\Debug\net10.0\TareaProgra1.sourcelink.json
+C:\Users\dani2\Desktop\TareaProgra1\obj\Debug\net10.0\TareaProgra1.dll
+C:\Users\dani2\Desktop\TareaProgra1\obj\Debug\net10.0\refint\TareaProgra1.dll
+C:\Users\dani2\Desktop\TareaProgra1\obj\Debug\net10.0\TareaProgra1.pdb
+C:\Users\dani2\Desktop\TareaProgra1\obj\Debug\net10.0\TareaProgra1.genruntimeconfig.cache
+C:\Users\dani2\Desktop\TareaProgra1\obj\Debug\net10.0\ref\TareaProgra1.dll
