@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TareaProgra1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eae1ce3b63a583aabc054987c9016312ab603940")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3588cefc2b679decf0465fbe6f29ef3af61a40e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TareaProgra1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TareaProgra1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
